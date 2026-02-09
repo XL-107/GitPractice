@@ -2,7 +2,8 @@
 
 * Xavier Llorens
 
-!\[Handsome Devil](Don\_Cheadle.jpg)
+![Handsome Devil](Don_Cheadle.jpg)
 
 * 2029
 * Swift-based frontend
+
